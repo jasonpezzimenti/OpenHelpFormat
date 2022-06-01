@@ -1,0 +1,21 @@
+document {
+	title {
+		Benefits of using Open Help Format
+	}
+
+	separator
+
+	paragraph {
+		Open Help Format (OHF) is a new and easy file format that very-closely resembles JSON's syntax. OHF will be designed to
+		provide a better alternative to writing Help Manuals or User Guides for end users and other people.
+
+		Some of the benefits of OHF are:
+	}
+
+	list {
+		- It's free;
+		- It's open source;
+		- It's easy to learn and write;
+		- You can link to other documents or to sections within an existing document.
+	}
+}
